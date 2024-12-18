@@ -47,6 +47,8 @@ sol!(CurvecrvUSDPlainImpl, "./classifier-abis/CurvecrvUSDPlainImpl.json");
 sol!(CurveCryptoSwap, "./classifier-abis/CurveCryptoSwap.json");
 sol!(BalancerV1, "./classifier-abis/balancer/BalancerV1Pool.json");
 sol!(BalancerV2Vault, "./classifier-abis/balancer/BalancerV2Vault.json");
+sol!(BalancerV3Vault, "./classifier-abis/balancer/BalancerV3Vault.json");
+sol!(BalancerV3VaultExtension, "./classifier-abis/balancer/BalancerV3VaultExtension.json");
 sol!(AaveV2, "./classifier-abis/AaveV2Pool.json");
 sol!(AaveV3, "./classifier-abis/AaveV3Pool.json");
 sol!(UniswapX, "./classifier-abis/UniswapXExclusiveDutchOrderReactor.json");
